@@ -1,0 +1,45 @@
+body {
+    background-image: url("questionmarkpic.jpg");
+}
+
+h1,
+h2 {
+    color: #e63c1c;
+    text-align: center;
+    font-weight: bold;
+}
+
+#title {
+    color: #e70f43;
+    font-size: 90px;
+}
+
+.jumbotron {
+
+    margin-top: 2rem;
+    background-color:black;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+    margin-top: 3rem;
+    color: brown;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.choice:hover {
+    background-color: lightgreen;
+}
+
+.choice {
+    margin: 0 auto;
+    width: 20%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#letsBegin {
+    margin-top: 1.5em;
+}
